@@ -1,0 +1,1 @@
+alert ("Name: Iselen Triumph. Height: 6 inches. Country: Nigeria.");  
